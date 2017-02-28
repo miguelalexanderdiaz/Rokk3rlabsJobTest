@@ -37,4 +37,4 @@ jupyter notebook --ip=0.0.0.0
 
 ## Notes:
 * The docker only supports parallel processing through CPU.
-* If you not have enought time, run the notebook **OnlyPrediction.ipynb**
+* If you don't have enought time, run the notebook **OnlyPrediction.ipynb**
