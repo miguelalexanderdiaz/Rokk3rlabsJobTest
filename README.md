@@ -25,7 +25,7 @@ jupyter notebook --ip=0.0.0.0
   * **OnlyPrediction.ipynb** This notebook runs only the prediction phase, using the "optimal" weights finded previously that are included in this repository, run this file is strongly recommended over the previous one.
 ![url_browser](bak/imgs/jupyter_interface2.png)
 
-* To run the any notebook just click on the *cell* menu, then select the *Run All* option.
+* To run any notebook just click on the *cell* menu, then select the *Run All* option.
 ![url_browser](bak/imgs/run_notebook.png)
 
 * Just be patient while the descriptors of the network downloads, and the network processes the images. A message like this will appear 
