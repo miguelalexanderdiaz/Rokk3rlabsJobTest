@@ -21,7 +21,7 @@ jupyter notebook --ip=0.0.0.0
 
 * Open the folder **Rokk3rlabsJobTest** there you will find all the files, included the two notebooks files.
 
-  * **TeethDetection.ipynb** This notebook runs the entire project, but you should be aware the training process will take several ours to end, due all the training process will begin from scratch.
+  * **TeethDetection.ipynb** This notebook runs the entire project, but you should be aware the training process will take several hours to end, due all the training process will begin from scratch.
   * **OnlyPrediction.ipynb** This notebook runs only the prediction phase, using the "optimal" weights finded previously that are included in this repository, run this file is strongly recommended over the previous one.
 ![url_browser](bak/imgs/jupyter_interface2.png)
 
